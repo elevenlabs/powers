@@ -8,7 +8,7 @@ Use this file only when the agent must call webhook tools, browser client tools,
 |------|------------|---------|
 | Webhook | Your backend over HTTP | Secure API calls, database access, private business logic |
 | Client | The browser or app client | UI changes, navigation, local state |
-| System | Built in to ElevenLabs | End call or transfer actions |
+| System | Built into ElevenLabs | End call or transfer actions |
 
 ## Webhook Tools
 
